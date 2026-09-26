@@ -1,4 +1,8 @@
 # azure-ntfs-file-server-lab
+
+## 🎬 Watch Me Build This Lab!
+https://www.loom.com/share/a7dd0f34651343f48d26980cf6ae0942
+
 # Lab 1 — NTFS File Server Lab
 
 **Active Directory · NTFS Permissions · SMB File Services · Group Policy · Terraform · PowerShell**
